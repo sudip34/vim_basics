@@ -41,8 +41,8 @@ Let's play: Not-vim-tutor Speedrun
   - `0` - move to the begining of the line
   - `^` - move to first no-white-space character
   - `$` - move to the end of the line
-  - `gg` - move to begining of the line
-  - `G` - move to the begining of the File
+  - `gg` - move to begining of the File
+  - `G` - move to the end of the File
   - `f` - find character on line
   - `t` - find character on line, before
   - `F` - find character on line, backeards
