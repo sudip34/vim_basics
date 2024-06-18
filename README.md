@@ -12,7 +12,7 @@ Let's play: Not-vim-tutor Speedrun
 
 ### Open a file / create a file
 - `nvim /path/to/your/file.txt`  to open a file
-- `nvim /path/to/file1.txt /path/to/file2.txt` to open multiple line
+- `nvim /path/to/file1.txt /path/to/file2.txt` to open multiple files
 - `:e /path/to/your/another_file.txt` to open a file from a already opened neovim cli
 - `:tabnew /path/to/new/file.txt`   to create a new file     
 
