@@ -4,11 +4,17 @@
 - `nvim --version` - to check which version of neovim is installed
 
 ## Vim basics
-- `nivim` - to start neovim
+- `nvim` - to start neovim
 - `:Tutor` - start the vim tutor
 - `:help`
 
 Let's play: Not-vim-tutor Speedrun
+
+### Open a file / create a file
+- `nvim /path/to/your/file.txt`  to open a file
+- `nvim /path/to/file1.txt /path/to/file2.txt` to open multiple line
+- `:e /path/to/your/another_file.txt` to open a file from a already opened neovim cli
+- `:tabnew /path/to/new/file.txt`   to create a new file     
 
  ### Navigation adn editing
 
