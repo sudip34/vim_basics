@@ -1,6 +1,6 @@
 # vim_basics
--`which` - find the location of a programm=
-  - `-a` -show all locations
+- `which` - find the location of a programm=
+- `-a` -show all locations
 - `nvim --version` - to check which version of neovim is installed
 
 ## Vim basics
