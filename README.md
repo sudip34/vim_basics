@@ -14,7 +14,13 @@ Let's play: Not-vim-tutor Speedrun
 - `nvim /path/to/your/file.txt`  to open a file
 - `nvim /path/to/file1.txt /path/to/file2.txt` to open multiple files
 - `:e /path/to/your/another_file.txt` to open a file from a already opened neovim cli
-- `:tabnew /path/to/new/file.txt`   to create a new file     
+- `:tabnew /path/to/new/file.txt`   to create a new file
+
+### linux command
+- :!  should be used before all linux command
+- :!ls to get the all the files in the directory
+- ` :!gcc <file_name> file.c ` to compile the C file
+- :!/<file_name> to run the file
 
  ### Navigation adn editing
 
