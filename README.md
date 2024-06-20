@@ -24,7 +24,7 @@ Let's play: Not-vim-tutor Speedrun
 
  ### Navigation adn editing
 
- -  hjkl` move around the cursor
+ - ` hjkl ` move around the cursor
  -  `:` command mode
      -  exit, save, open
  - `q` - quit
