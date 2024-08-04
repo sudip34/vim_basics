@@ -50,6 +50,8 @@ Let's play: Not-vim-tutor Speedrun
    -    `4dd` - delete 4 consecutive lines
    -    `ndd` - delete **n** number of consecutive lines
    -    `dG`  - delete all lines from the current cursor position to the end of the file
+   -    `%d`  - delete everything from the files
+   -    `dgg` - delete everything from the current line to the top of the text/file
      
 - We can use motions on their own or with an operator
   - `w` - move to next word
