@@ -48,7 +48,8 @@ Let's play: Not-vim-tutor Speedrun
    -    `db` - delete the word before
    -    `dd` - delete a single line
    -    `4dd` - delete 4 consecutive lines
-   -    `ndd` - delete **n** number of consecutive lines
+   -    `ndd` - delete **n** number of consecutive lines starting from the cursor
+   -    `d$`  - cut/delete everything from the cursor to the end of the line
    -    `dG`  - delete all lines from the current cursor position to the end of the file
    -    `%d`  - delete everything from the files
    -    `dgg` - delete everything from the current line to the top of the text/file
@@ -76,3 +77,21 @@ Let's play: Not-vim-tutor Speedrun
   - `/` - search
   - `n` - next search result
   - `N` - previous search result
+
+ - `y` - copy  
+   - `yy`    - copy a single line 
+   - `3yy`   - copy 3 lines
+   - `y$`    - copy everything form the cursor to the end of the line
+   - `y^`    - copy everything from the start of the line to the cursor
+   - `yiw`   - copy the current word
+
+ - `P` pasting/putting
+   - `P(uppercase)` - Paste before the cursor
+   - `p(lowercase)` - Paste after the cursor
+  
+- `V` visual mode and this also will select
+   - `V(uppercase)` enter to visual-mode. This will select the entire line
+   -  `v (lowercase)` to enter visual-mode. This will start selecting the line from the cursor is
+
+ *** `CTRL+V` visual-block-mode. and move the cursor to the end of where you want to copy or cut.
+ press `y` to copy or press `d` to cut. Move the cursor to where you want to paste your selection. ***
