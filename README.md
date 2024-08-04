@@ -43,8 +43,13 @@ Let's play: Not-vim-tutor Speedrun
 
  - `d` -delete
    -    This is an operator, it is waiting for an motion
+   -    `dX` - delete the next character
    -    `dw` - delete the next word
    -    `db` - delete the word before
+   -    `dd` - delete a single line
+   -    `4dd` - delete 4 consecutive lines
+   -    `ndd` - delete **n** number of consecutive lines
+   -    `dG`  - delete all lines from the current cursor position to the end of the file
      
 - We can use motions on their own or with an operator
   - `w` - move to next word
