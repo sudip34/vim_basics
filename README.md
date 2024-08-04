@@ -31,8 +31,8 @@ Let's play: Not-vim-tutor Speedrun
  - `q!` -forced quit with out save
 
  - `i` - insert mode at cursor
- - `a` -insert mode after cursor
- - `A` -insert mode at the end of the line
+ - `a` - insert mode after cursor
+ - `A` - insert mode at the end of the line
  - `o` - insert mode on new line below
  - `O` - insert mode on new line above
  - `<esc>` - normal mode
