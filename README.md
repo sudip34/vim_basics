@@ -52,6 +52,7 @@ Let's play: Not-vim-tutor Speedrun
    -    `dG`  - delete all lines from the current cursor position to the end of the file
    -    `%d`  - delete everything from the files
    -    `dgg` - delete everything from the current line to the top of the text/file
+   -    `g /^T/d` - delete lines that begin with a specific letter **T** 
      
 - We can use motions on their own or with an operator
   - `w` - move to next word
