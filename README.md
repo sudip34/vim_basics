@@ -42,6 +42,7 @@ Let's play: Not-vim-tutor Speedrun
  - `<esc>` - normal mode
 
  - `:%s/search_word/word_to_replace/g` replace search_word with wrod_to_replace and globally
+ - `:%s/search_word/word_to_replace/gi` replace search_word with wrod_to_replace and globally and ignoring the case
  - `r` - replace character
  - `x` - delete character
  - `u` - undo
