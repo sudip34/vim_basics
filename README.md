@@ -1,3 +1,5 @@
+# [Installation](https://www.lazyvim.org/installation)
+
 # vim_basics
 - `which` - find the location of a programm=
 - `-a` -show all locations
