@@ -40,7 +40,7 @@ Let's play: Not-vim-tutor Speedrun
  - `O` - insert mode on new line above
  - `<esc>` - normal mode
 
- - `:%s/search_word/word_to_replace/g` replace search_word with wrod_to_replace and globally
+ - `:%s/**search_word**/**word_to_replace**/g` replace search_word with wrod_to_replace and globally
  - `r` - replace character
  - `x` - delete character
  - `u` - undo
