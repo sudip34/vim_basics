@@ -25,7 +25,7 @@ Let's play: Not-vim-tutor Speedrun
 - ` :!gcc <file_name> file.c ` to compile the C file
 - :!/<file_name> to run the file
 
- ### Navigation adn editing
+ ### Navigation and editing
  - ` [b ` previous tab
  - ` ]b ` next tab 
  - ` hjkl ` move around the cursor
