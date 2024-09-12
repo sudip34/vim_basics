@@ -26,7 +26,8 @@ Let's play: Not-vim-tutor Speedrun
 - :!/<file_name> to run the file
 
  ### Navigation adn editing
-
+ - ` [b ` previous tab
+ - ` ]b ` next tab 
  - ` hjkl ` move around the cursor
  -  `:` command mode
      -  exit, save, open
