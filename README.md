@@ -40,6 +40,7 @@ Let's play: Not-vim-tutor Speedrun
  - `A` - insert mode at the end of the line
  - `o` - insert mode on new line below
  - `O` - insert mode on new line above
+ - `ctl + o` - to change to Normal mode for one operation
  - `<esc>` - normal mode
 
  - `:%s/search_word/word_to_replace/g` replace search_word with wrod_to_replace and globally
