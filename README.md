@@ -19,6 +19,9 @@ Let's play: Not-vim-tutor Speedrun
 - `:e /path/to/your/another_file.txt` to open a file from a already opened neovim cli
 - `:tabnew /path/to/new/file.txt`   to create a new file
 
+### clsoe the current Tab
+- `qt` - close current tab
+
 ### linux command
 - :!  should be used before all linux command
 - :!ls to get the all the files in the directory
