@@ -27,8 +27,11 @@ Let's play: Not-vim-tutor Speedrun
 
  ### Navigation and editing
  - ` [b ` previous tab
- - ` ]b ` next tab 
+ - ` ]b ` next tab
+ - ` :b1 ` tab/buffer 1
+ -  ` :bn ` tab/buffer n
  - ` hjkl ` move around the cursor
+ - `ctrl +w then hjkl` to go left-, down-, up-, right-window 
  -  `:` command mode
      -  exit, save, open
  -  `:!` execution mode
