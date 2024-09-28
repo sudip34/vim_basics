@@ -20,7 +20,7 @@ Let's play: Not-vim-tutor Speedrun
 - `:tabnew /path/to/new/file.txt`   to create a new file
 
 ### clsoe the current Tab
-- `qt` - close current tab
+
 
 ### linux command
 - :!  should be used before all linux command
